@@ -82,3 +82,13 @@ If no prompt is provided, the script uses a built-in kawaii default:
 > kawaii style illustration, soft pastel color palette, large sparkling eyes, chibi proportions, rosy cheeks, fluffy and round forms, adorable accessories, Japanese kawaii aesthetic, clean linework, dreamy background
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node kawaiiartgenerator.js "kawaii style illustration, soft pastel color palette, large sparkling eyes, chibi proportions, rosy cheeks, fluffy and round forms, adorable accessories, Japanese kawaii aesthetic, clean linework, dreamy background"
+```
+
+![Example output](https://oss.talesofai.cn/picture/5755afa5-ae27-469c-8464-838d6b830513.webp)
+
+> Prompt: *"kawaii style illustration, soft pastel color palette, large sparkling eyes, chibi proportions, rosy cheeks, fluffy and round forms, adorable accessories, Japanese kawaii aesthetic, clean linework, dreamy background"*
